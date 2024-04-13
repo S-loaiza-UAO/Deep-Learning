@@ -1,5 +1,5 @@
 # Deep-Learning Repository
-# Deep Learning for Sequential Data: An Exploration Repository
+# Deep Learning for Sequential Data: An Exploration Repository 🤖�
 This repository is dedicated to the exploration and learning of Deep Learning techniques applied to sequential data. 
 Here you will find a collection of resources, sample code, and model implementations for tasks such as:
 - Natural Language Processing (NLP):
