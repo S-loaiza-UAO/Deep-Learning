@@ -1,21 +1,20 @@
 # Deep-Learning Repository
-# Deep Learning para Datos Secuenciales: Un Repositorio de Exploración
-
-Este repositorio está dedicado a la exploración y el aprendizaje de técnicas de Deep Learning aplicadas a datos secuenciales. 
-Aquí encontrarás una colección de recursos, códigos de ejemplo e implementaciones de modelos para tareas como:
-- Procesamiento del Lenguaje Natural (PNL):
-- Análisis de sentimiento
-- Traducción automática
-- Modelado de lenguaje
-- Respuestas a preguntas
-- Análisis de Series Temporales:
-- Predicción de series temporales
-- Clasificación de series temporales
-- Detección de anomalías
-## Otros Dominios:
-- Reconocimiento de actividad humana
-- Análisis de secuencias de ADN
-- Modelado de música
+# Deep Learning for Sequential Data: An Exploration Repository
+This repository is dedicated to the exploration and learning of Deep Learning techniques applied to sequential data. 
+Here you will find a collection of resources, sample code, and model implementations for tasks such as:
+- Natural Language Processing (NLP):
+- Sentiment Analysis
+- Machine Translation
+- Language Modeling
+- Question Answering
+- Time Series Analysis:
+- Time Series Prediction
+- Time Series Classification
+- Anomaly Detection
+## Other Domains:
+- Human Activity Recognition
+- DNA Sequence Analysis
+- Music Modeling
 
 ## UAO - Evaluation Process
 
